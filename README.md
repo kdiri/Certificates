@@ -12,6 +12,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 | AWS Fundamentals: Migrating to the Cloud |   Coursera   | https://www.coursera.org/account/accomplishments/certificate/KK5MAPAFYGPQ |
 | AWS Fundamentals: Building Serverless Applications |   Coursera   | https://www.coursera.org/account/accomplishments/verify/36U7HJH5BLB3 |
 | AWS Fundamentals |   Coursera   | https://coursera.org/share/b703e3d915e6fc5559c6d33a228e2018 |
+| Introduction to Designing Data Lakes on AWS     |   Coursera   | https://www.coursera.org/account/accomplishments/certificate/9EBGT62HJX4Z |
 | Database Management Essentials           |   Coursera   | https://www.coursera.org/account/accomplishments/certificate/L78Y2AQH7T3N |
 | Natural Language Processing (NLP)        |    Udemy     | https://github.com/kdiri/Certificates/blob/master/Udemy/MachineLearning/UdemyNLP.pdf |
 | Agile & Scrum Overview                   |    Udemy     | https://github.com/kdiri/Certificates/blob/master/Udemy/AgileMethodology/UdemyAgileScrum.pdf |
