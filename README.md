@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        | Organization |                                                          URL |
 | ----------------------------------------------------------- | :----------: | -----------------------------------------------------------: |
+| Data Analysis Using Pyspark                                 |   Coursera   | https://coursera.org/share/0975d52e6387f6daeea09dc5059b9217 |
 | Google Cloud Big Data and Machine Learning Fundamentals     |   Coursera   | https://coursera.org/share/9242857af53ab77e35bfcf1ff5caff74 |
 | Google Cloud BigQuery Basics for Data Analysts              |   Coursera   | https://coursera.org/share/eef4e78ee520dae9970e96f6f18eb983 |
 | Machine Learning                                            |   Coursera   | https://www.coursera.org/account/accomplishments/certificate/YZ8T73J3DMPW |
