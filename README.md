@@ -7,6 +7,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 | Name                                                        | Organization |                                                          URL |
 | ----------------------------------------------------------- | :----------: | -----------------------------------------------------------: |
 | IBM Introduction to Data Engineering                        |   Coursera   | https://coursera.org/share/d8097df715f01bd060fff339de36e156 |
+| IBM Python for Data Science, AI & Development               |   Coursera   | https://coursera.org/share/07adfab507ca2354965c104235c05076 |
 | Data Analysis Using Pyspark                                 |   Coursera   | https://coursera.org/share/0975d52e6387f6daeea09dc5059b9217 |
 | Google Cloud Big Data and Machine Learning Fundamentals     |   Coursera   | https://coursera.org/share/9242857af53ab77e35bfcf1ff5caff74 |
 | Google Cloud BigQuery Basics for Data Analysts              |   Coursera   | https://coursera.org/share/eef4e78ee520dae9970e96f6f18eb983 |
