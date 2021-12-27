@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        | Organization |                                                          URL |
 | ----------------------------------------------------------- | :----------: | -----------------------------------------------------------: |
+| IBM Python Project for Data Engineering                     |   Coursera   | https://coursera.org/share/bd0eda9fa48384b919b9346f17e11441|
 | IBM Introduction to Data Engineering                        |   Coursera   | https://coursera.org/share/d8097df715f01bd060fff339de36e156 |
 | IBM Python for Data Science, AI & Development               |   Coursera   | https://coursera.org/share/07adfab507ca2354965c104235c05076 |
 | Data Analysis Using Pyspark                                 |   Coursera   | https://coursera.org/share/0975d52e6387f6daeea09dc5059b9217 |
