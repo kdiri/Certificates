@@ -5,7 +5,8 @@ Principal websites that I follow are [coursera](https://www.coursera.org/) and [
 I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacamp.com/) to learn new things.  
 
 | Name                                                        | Organization |                                                          URL |
-| ----------------------------------------------------------- | :----------: | -----------------------------------------------------------: |
+|-------------------------------------------------------------| :----------: | -----------------------------------------------------------: |
+| Getting Started with Power BI Desktop                       |   Coursera   | https://coursera.org/share/0f8c8fd85e4fe8fc49ec2660bedca8c0 |
 | Excel/VBA for Creative Problem Solving, Part 1              |   Coursera   | https://coursera.org/share/0f95f761acc56d90dedf86536197941a |
 | Introduction to Relational Databases (RDBMS)                |   Coursera   | https://coursera.org/share/aff54823a54a207c6e8b40ba42d67ace |
 | IBM Python Project for Data Engineering                     |   Coursera   | https://coursera.org/share/bd0eda9fa48384b919b9346f17e11441 |
