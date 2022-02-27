@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        | Organization |                                                          URL |
 |-------------------------------------------------------------| :----------: | -----------------------------------------------------------: |
+| Analyzing and Visualizing Data in Looker                    |   Coursera   |  https://coursera.org/share/d4bfdc4eb847e345b18837fca165b6dc |
 | Everyday Excel, Part 1                                      |   Coursera   |  https://coursera.org/share/ad8f5dea08a6295601b26fc94781cf49 |
 | Getting Started with Power BI Desktop                       |   Coursera   |  https://coursera.org/share/0f8c8fd85e4fe8fc49ec2660bedca8c0 |
 | Excel/VBA for Creative Problem Solving, Part 1              |   Coursera   |  https://coursera.org/share/0f95f761acc56d90dedf86536197941a |
