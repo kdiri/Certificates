@@ -5,7 +5,9 @@ Principal websites that I follow are [coursera](https://www.coursera.org/) and [
 I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacamp.com/) to learn new things.  
 
 | Name                                                        |       Organization        |                                                          URL |
-| ----------------------------------------------------------- | :-----------------------: | -----------------------------------------------------------: |
+|-------------------------------------------------------------|:-------------------------:| -----------------------------------------------------------: |
+| Building Batch Data Pipelines on GCP                        |        Coursera           | https://coursera.org/share/7befd9d71a6ab3991bd5c594e9f185ff |
+| Serverless Data Processing with Dataflow: Foundations       |        Coursera           | https://coursera.org/share/f12c872910f421ca1d0f6c16fd73999a |
 | Exploring Data with Looker                                  | Google Cloud Skills Boost | [Badge link](https://www.cloudskillsboost.google/public_profiles/82ce8c5a-0be0-4a9e-8bf2-e871a144fed4/badges/1747606) |
 | Analyzing and Visualizing Data in Looker                    |         Coursera          |  https://coursera.org/share/d4bfdc4eb847e345b18837fca165b6dc |
 | Everyday Excel, Part 1                                      |         Coursera          |  https://coursera.org/share/ad8f5dea08a6295601b26fc94781cf49 |
