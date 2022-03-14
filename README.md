@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        |       Organization        |                                                          URL |
 |-------------------------------------------------------------|:-------------------------:| -----------------------------------------------------------: |
+| Building Resilient Streaming Analytics Systems on GCP       |        Coursera           | https://coursera.org/share/d13d7b43c3d762292b2056a865e235ae |
 | Building Batch Data Pipelines on GCP                        |        Coursera           | https://coursera.org/share/7befd9d71a6ab3991bd5c594e9f185ff |
 | Serverless Data Processing with Dataflow: Foundations       |        Coursera           | https://coursera.org/share/f12c872910f421ca1d0f6c16fd73999a |
 | Exploring Data with Looker                                  | Google Cloud Skills Boost | [Badge link](https://www.cloudskillsboost.google/public_profiles/82ce8c5a-0be0-4a9e-8bf2-e871a144fed4/badges/1747606) |
