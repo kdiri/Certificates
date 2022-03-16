@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        |       Organization        |                                                          URL |
 |-------------------------------------------------------------|:-------------------------:| -----------------------------------------------------------: |
+| Foundations of Project Management                           |        Coursera           | https://coursera.org/share/390ab8c90d17d4366796f014acddde11 |
 | Building Resilient Streaming Analytics Systems on GCP       |        Coursera           | https://coursera.org/share/d13d7b43c3d762292b2056a865e235ae |
 | Building Batch Data Pipelines on GCP                        |        Coursera           | https://coursera.org/share/7befd9d71a6ab3991bd5c594e9f185ff |
 | Serverless Data Processing with Dataflow: Foundations       |        Coursera           | https://coursera.org/share/f12c872910f421ca1d0f6c16fd73999a |
