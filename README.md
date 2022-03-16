@@ -6,12 +6,12 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        |       Organization        |                                                          URL |
 |-------------------------------------------------------------|:-------------------------:| -----------------------------------------------------------: |
-| Foundations of Project Management                           |        Coursera           | https://coursera.org/share/390ab8c90d17d4366796f014acddde11 |
-| Building Resilient Streaming Analytics Systems on GCP       |        Coursera           | https://coursera.org/share/d13d7b43c3d762292b2056a865e235ae |
-| Building Batch Data Pipelines on GCP                        |        Coursera           | https://coursera.org/share/7befd9d71a6ab3991bd5c594e9f185ff |
+| Foundations of Project Management                           |        Coursera           | https://coursera.org/share/c336f887e0b07f974f52cc667b24a140 |
+| Building Resilient Streaming Analytics Systems on GCP       |        Coursera           | https://coursera.org/share/be3c3f98dc8fa6332956dbc3ae5c2a2e |
+| Building Batch Data Pipelines on GCP                        |        Coursera           | https://coursera.org/share/e6d746cbdeccc4e89a34f165a14c5858 |
 | Serverless Data Processing with Dataflow: Foundations       |        Coursera           | https://coursera.org/share/f12c872910f421ca1d0f6c16fd73999a |
 | Exploring Data with Looker                                  | Google Cloud Skills Boost | [Badge link](https://www.cloudskillsboost.google/public_profiles/82ce8c5a-0be0-4a9e-8bf2-e871a144fed4/badges/1747606) |
-| Analyzing and Visualizing Data in Looker                    |         Coursera          |  https://coursera.org/share/d4bfdc4eb847e345b18837fca165b6dc |
+| Analyzing and Visualizing Data in Looker                    |         Coursera          |  https://coursera.org/share/d422399b9b122c169f64f1cd975524e9 |
 | Everyday Excel, Part 1                                      |         Coursera          |  https://coursera.org/share/ad8f5dea08a6295601b26fc94781cf49 |
 | Getting Started with Power BI Desktop                       |         Coursera          |  https://coursera.org/share/0f8c8fd85e4fe8fc49ec2660bedca8c0 |
 | Excel/VBA for Creative Problem Solving, Part 1              |         Coursera          |  https://coursera.org/share/0f95f761acc56d90dedf86536197941a |
