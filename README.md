@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                        |       Organization        |                                                          URL |
 |-------------------------------------------------------------|:-------------------------:| -----------------------------------------------------------: |
+| Smart Analytics, Machine Learning, and AI on GCP            |        Coursera           | https://coursera.org/share/7aed71770c29629f7142f8d56b79d2ba |
 | Foundations of Project Management                           |        Coursera           | https://coursera.org/share/c336f887e0b07f974f52cc667b24a140 |
 | Building Resilient Streaming Analytics Systems on GCP       |        Coursera           | https://coursera.org/share/be3c3f98dc8fa6332956dbc3ae5c2a2e |
 | Building Batch Data Pipelines on GCP                        |        Coursera           | https://coursera.org/share/e6d746cbdeccc4e89a34f165a14c5858 |
