@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                                              |       Organization        |                                                                                                                   URL |
 |-----------------------------------------------------------------------------------|:-------------------------:|----------------------------------------------------------------------------------------------------------------------:|
+| Project Initiation: Starting a Successful Project                                 |         Coursera          |                                                           https://coursera.org/share/36cd56dedfa7399034605f0ce327ab4c |
 | Privacy In Europe: GDPR                                                           |         Coursera          |                                                           https://coursera.org/share/229053fb80df8fc539a84fc2074d5d3f |
 | **Specialization**: Preparing for Google Cloud Certification: Cloud Data Engineer |         Coursera          |                                                           https://coursera.org/share/4c961b04b126b95080f91b16f4a604ac |
 | Preparing for GC Professional Cloud Data Engineer Exam                            |         Coursera          |                                                           https://coursera.org/share/64c622f3eb7e7562e6e5f86f98c69230 |
