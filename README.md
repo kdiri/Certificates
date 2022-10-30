@@ -6,6 +6,7 @@ I rarely use also [edx](https://www.edx.org/) and [datacamp](https://www.datacam
 
 | Name                                                                              |       Organization        |                                                                                                                   URL |
 |-----------------------------------------------------------------------------------|:-------------------------:|----------------------------------------------------------------------------------------------------------------------:|
+| Agile Project Management                                                          |         Coursera          |                                                           https://coursera.org/share/5d07446594b56225d4754ed0db89a60a |
 | Project Execution: Running the Project                                            |         Coursera          |                                                           https://coursera.org/share/7e699b541931e489d711fe45671357c7 |
 | Project Planning: Putting It All Together                                         |         Coursera          |                                                           https://coursera.org/share/8c8d5a7b386139abcc9e037894d9d4bd |
 | Project Initiation: Starting a Successful Project                                 |         Coursera          |                                                           https://coursera.org/share/36cd56dedfa7399034605f0ce327ab4c |
